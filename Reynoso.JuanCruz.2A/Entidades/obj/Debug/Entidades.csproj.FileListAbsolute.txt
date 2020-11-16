@@ -1,0 +1,6 @@
+C:\Users\ChillOutKet\Desktop\Labo-Prog-2\practica-parcial\Entidades\Entidades\bin\Debug\Entidades.dll
+C:\Users\ChillOutKet\Desktop\Labo-Prog-2\practica-parcial\Entidades\Entidades\bin\Debug\Entidades.pdb
+C:\Users\ChillOutKet\Desktop\Labo-Prog-2\practica-parcial\Entidades\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\ChillOutKet\Desktop\Labo-Prog-2\practica-parcial\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ChillOutKet\Desktop\Labo-Prog-2\practica-parcial\Entidades\Entidades\obj\Debug\Entidades.dll
+C:\Users\ChillOutKet\Desktop\Labo-Prog-2\practica-parcial\Entidades\Entidades\obj\Debug\Entidades.pdb
